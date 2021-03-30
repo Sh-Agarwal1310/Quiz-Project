@@ -1,0 +1,72 @@
+<br><br><br><br>
+<div id="ten-countdown"></div>
+
+<div *ngFor='let mo of logical' class="container forma">
+  <h3 style="font-family: Times New Roman; color:black;">{{mo.id}} . {{mo.Question}}</h3><br>
+  <form #myForm="ngForm" (submit)="templateForm(myForm.value,[(mo.Ans)],[(mo.id)],[(mo.Explanation)])">
+
+    <ul style="list-style-type:none;">
+      <li><input id="1" type="radio" value="{{mo.option1}}" name="gender" ngModel>
+        <label class="la" for="1">{{mo.option1}}</label>
+      </li>
+
+      <li><input id="2" type="radio" value="{{mo.option2}}" name="gender" ngModel>
+        <label class="la" for="2">{{mo.option2}}</label>
+      </li>
+
+      <li><input id="3" type="radio" value="{{mo.option3}}" name="gender" ngModel>
+        <label class="la" for="3">{{mo.option3}}</label>
+      </li>
+
+      <li><input id="4" type="radio" value="{{mo.option4}}" name="gender" ngModel>
+        <label class="la" for="4">{{mo.option4}}</label>
+      </li>
+
+    </ul>
+
+
+    <button type="submit" class="btn btn-dark">Submit</button>
+
+
+  </form><br>
+
+
+</div>
+
+
+<div class="foot">
+
+  <div class="row">
+    <div class="col-md-4">
+      <button type="button" class="btn btn-success btn-lg" style="border-radius:50px;" (click)="g()"> Click here to
+        refresh
+        Score</button>
+    </div>
+    <div class="col-md-4">
+      <h1 style="text-align:center; font-size: 20px; font-weight: bold; font-style: italic;">Score = {{this.c}}</h1>
+    </div>
+    <div class="col-md-4">
+      <div class="modal-body">
+
+        <button type="button" class="btn btn-success " (click)="review()">Review</button>
+        <div *ngFor="let mo of this.rev;let i=index" [attr.data-index]="i">
+          <div *ngIf="mo=='Answered'">
+            {{i+1}} . {{mo}}
+          </div>
+          <div *ngIf="mo=='Not Answered'">
+            {{i+1}} . {{mo}}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+  <!-- <div class="modal-footer">
+            <button type="button" class="btn btn-dark" (click)="btnc()">Close</button>
+          </div> -->
+
+</div>

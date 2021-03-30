@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "Question": "Which of the following tool is used to generate API documentation in HTML format from doc comments in source code?",
+    "option1": "javah command",
+    "option2": "Javadoc tool",
+    "option3": "javaw command",
+    "option4": "javap command",
+    "Ans": "Javadoc tool"
+  },
+  {
+    "id": 2,
+    "Question": "Evaluate the following Java expression, if x=3, y=5, and z=10:     ++z + y - y + z + x++",
+    "option1": "20",
+    "option2": "23",
+    "option3": "24",
+    "option4": "25",
+    "Ans": "24"
+  },
+  {
+    "id": 3,
+    "Question": "What does the expression float a = 35 / 0 return?",
+    "option1": "Infinity",
+    "option2": "0",
+    "option3": "Not a number",
+    "option4": "Run time exception",
+    "Ans": "Infinity"
+  },
+  {
+    "id": 4,
+    "Question": "Which of the following is a valid long literal?",
+    "option1": "0xnf029L",
+    "option2": "ABH8097",
+    "option3": "L990023",
+    "option4": "904423",
+    "Ans": "0xnf029L"
+  },
+  {
+    "id": 5,
+    "Question": "What is the return type of the hashCode() method in the Object class?",
+    "option1": "Object",
+    "option2": "long",
+    "option3": "Void",
+    "option4": "int",
+    "Ans": "int"
+  },
+  {
+    "id": 6,
+    "Question": "Which of the following is a valid declaration of a char?",
+    "option1": "char ca = 'tea';",
+    "option2": "char cr = \u0223;",
+    "option3": "char cc = 'itea';",
+    "option4": "None of the above",
+    "Ans": "None of the above"
+  },
+  {
+    "id": 7,
+    "Question": "_____ is used to find and fix bugs in the Java programs.",
+    "option1": "JVM",
+    "option2": "JDB",
+    "option3": "JRE",
+    "option4": "JDK",
+    "Ans": "JDB"
+  },
+  {
+    "id": 8,
+    "Question": "The \u0021 article referred to as a",
+    "option1": "Octal escape",
+    "option2": "Unicode escape sequence",
+    "option3": "Hexadecimal",
+    "option4": "Line feed",
+    "Ans": "Unicode escape sequence"
+  },
+  {
+    "id": 9,
+    "Question": "Which of the following is not a Java features?",
+    "option1": "Dynamic",
+    "option2": "Architecture Neutral",
+    "option3": "Use of pointers",
+    "option4": "Object-oriented",
+    "Ans": "Use of pointers"
+  },
+  {
+    "id": 10,
+    "Question": "Which of the following option leads to the portability and security of Java?",
+    "option1": "Bytecode is executed by JVM",
+    "option2": "The applet makes the Java code secure and portable",
+    "option3": "Use of exception handling",
+    "option4": "Dynamic binding between objects",
+    "Ans": "Bytecode is executed by JVM"
+  }
+]

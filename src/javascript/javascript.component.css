@@ -1,0 +1,35 @@
+.forma{
+    padding:40px;
+}
+.foot{
+    padding-left:200px;
+    padding-right:200px;
+    
+}
+
+#ten-countdown {
+    /* text-align: center; */
+    border: 5px solid #004853;
+    position: fixed;
+    
+    right: 0;
+    display:inline;
+    padding: 3px;
+    color: #004853;
+    font-family: Times New Roman;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    background: #80808033;
+    border-radius: 45px;
+    float:right;
+    margin-bottom: 10px;
+}
+ul li {
+  display:inline;
+  margin-right: 50px; 
+}
+
+
+
+

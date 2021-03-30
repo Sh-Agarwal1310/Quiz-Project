@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "Question": "What is the maximum possible length of an identifier?",
+        "option1": "16",
+        "option2": "32",
+        "option3": "64",
+        "option4": "None of these above",
+        "Ans": "None of these above"
+    },
+    {
+        "id": 2,
+        "Question": "Who developed the Python language?",
+        "option1": "Zim Den",
+        "option2": "Guido van Rossum",
+        "option3": "Niene Stom",
+        "option4": "Wick van Rossum",
+        "Ans": "Guido van Rossum"
+    },
+    {
+        "id": 3,
+        "Question": "Which one of the following is the correct extension of the Python file?",
+        "option1": ".py",
+        "option2": ".python",
+        "option3": ".p",
+        "option4": "00",
+        "Ans": ".py"
+    },
+    {
+        "id": 4,
+        "Question": "Which of the following type of a variable is volatile?",
+        "option1": "Mutable variable",
+        "option2": "Dynamic variable",
+        "option3": "Immutable variable",
+        "option4": "all type variable",
+        "Ans": "Mutable variable"
+    },
+    {
+        "id": 5,
+        "Question": "In which language is Python written?",
+        "option1": "PHP",
+        "option2": "English",
+        "option3": "C",
+        "option4": "all of these",
+        "Ans": "C"
+    },
+    {
+        "id": 6,
+        "Question": "Which character is used in Python to make a single line comment?",
+        "option1": "/",
+        "option2": "//",
+        "option3": "#",
+        "option4": "!",
+        "Ans": "#"
+    },
+    {
+        "id": 7,
+        "Question": "When interpreter encounters an empty statements, what it will do:",
+        "option1": "Shows a warning",
+        "option2": "Ignores the statements",
+        "option3": "Prompts to complete the statement",
+        "option4": "Throws an error",
+        "Ans": "Ignores the statements"
+    },
+    {
+        "id": 8,
+        "Question": "What is the method inside the class in python language?",
+        "option1": "Object",
+        "option2": "Function",
+        "option3": "Attribute",
+        "option4": "Argument",
+        "Ans": "Function"
+    },
+    {
+        "id": 9,
+        "Question": "Which of the following declarations is incorrect?",
+        "option1": "_x = 2",
+        "option2": "__x = 2",
+        "option3": "__xy__ = 2",
+        "option4": "None of these",
+        "Ans": "None of these"
+    },
+    {
+        "id": 10,
+        "Question": " Which of the following is not a keyword in Python language?",
+        "option1": "val",
+        "option2": "raise",
+        "option3": "try",
+        "option4": "map",
+        "Ans": "val"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "Question": "In the JavaScript, which one of the following is not considered as an error:",
+        "option1": "Missing of Bracket",
+        "option2": "Division by zero",
+        "option3": "Missing of semicolons",
+        "option4": "Syntax error",
+        "Ans": "Division by zero"
+    },
+    {
+        "id": 2,
+        "Question": "When there is an indefinite or an infinite value during an arithmetic computation in a program, then JavaScript prints______.",
+        "option1": "Prints the value as such",
+        "option2": "Prints an overflow error",
+        "option3": "Displays Infinity",
+        "option4": "Prints an exception error",
+        "Ans": "Displays Infinity"
+    },
+    {
+        "id": 3,
+        "Question": "Which of the following option is used as hexadecimal literal beginning?",
+        "option1": "Both 0x and 0X",
+        "option2": "0x",
+        "option3": "0X",
+        "option4": "00",
+        "Ans": "Both 0x and 0X"
+    },
+    {
+        "id": 4,
+        "Question": "Which of the following type of a variable is volatile?",
+        "option1": "Mutable variable",
+        "option2": "Dynamic variable",
+        "option3": "Immutable variable",
+        "option4": "all type variable",
+        "Ans": "Mutable variable"
+    },
+    {
+        "id": 5,
+        "Question": "Which of the following variables takes precedence over the others if the names are the same?",
+        "option1": "Global variable",
+        "option2": "TempData",
+        "option3": "The two of the above",
+        "option4": "The local element",
+        "Ans": "The local element"
+    },
+    {
+        "id": 6,
+        "Question": "The function and var are known as:",
+        "option1": "Data types",
+        "option2": "Keywords",
+        "option3": "Declaration statements",
+        "option4": "None of the above",
+        "Ans": "Declaration statements"
+    },
+    {
+        "id": 7,
+        "Question": "When interpreter encounters an empty statements, what it will do:",
+        "option1": "Shows a warning",
+        "option2": "Ignores the statements",
+        "option3": "Prompts to complete the statement",
+        "option4": "Throws an error",
+        "Ans": "Ignores the statements"
+    },
+    {
+        "id": 8,
+        "Question": "In JavaScript, what is a block of statement?",
+        "option1": "Conditional block",
+        "option2": "block that combines a number of statements into a single compound statement",
+        "option3": "both conditional block and a single statement",
+        "option4": "block that contains a single statement",
+        "Ans": "block that combines a number of statements into a single compound statement"
+    },
+    {
+        "id": 9,
+        "Question": "Which one of the following also known as Conditional Expression:",
+        "option1": "Alternative to if-else",
+        "option2": "Switch statement",
+        "option3": "Immediate if",
+        "option4": "If-then-else statement",
+        "Ans": "Immediate if"
+    },
+    {
+        "id": 10,
+        "Question": "Which type of JavaScript language is ___",
+        "option1": "Object-Based",
+        "option2": "Object-Oriented",
+        "option3": "Assembly-language",
+        "option4": "High-level",
+        "Ans": "Object-Based"
+    }
+]
